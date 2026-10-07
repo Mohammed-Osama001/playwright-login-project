@@ -1,0 +1,12 @@
+{
+  "name": "playwrightframework",
+  "version": "1.0.0",
+  "description": "Playwright practice project",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.6.4"
+  }
+}
